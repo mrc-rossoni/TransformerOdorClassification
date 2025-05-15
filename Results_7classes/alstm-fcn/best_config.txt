@@ -1,0 +1,1 @@
+{'num_cells': 64, 'learning_rate': 0.0001, 'epochs': 200, 'batch_size': 128}

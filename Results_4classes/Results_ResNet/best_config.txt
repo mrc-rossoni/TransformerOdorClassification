@@ -1,0 +1,1 @@
+{'epochs': 200, 'lr': 1e-05, 'batch_size': 32, 'n_feature_maps': 128}

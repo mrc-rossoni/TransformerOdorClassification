@@ -1,0 +1,1 @@
+{'nb_filters': 64, 'depth': 9, 'kernel_size': 41, 'batch_size': 64, 'use_residual': True, 'use_bottleneck': True, 'bottleneck_size': 16, 'lr': 0.0001, 'epochs': 500}

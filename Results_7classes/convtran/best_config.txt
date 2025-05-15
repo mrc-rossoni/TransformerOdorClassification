@@ -1,0 +1,1 @@
+{'emb_size': 128, 'num_heads': 8, 'dim_ff': 64, 'epochs': 1000, 'lr': 0.001, 'batch_size': 64, 'dropout': 0.2, 'Net_Type': 'C-T', 'Data_shape': [1, 1, 10], 'num_labels': 7, 'Fix_pos_encode': 'tAPE', 'Rel_pos_encode': 'eRPE'}
